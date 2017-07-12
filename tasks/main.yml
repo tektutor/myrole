@@ -1,0 +1,4 @@
+---
+# tasks file for myrole
+- name: Print the variable declared in common role from myrole
+  debug: var=my_variable
