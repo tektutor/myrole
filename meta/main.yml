@@ -2,6 +2,7 @@ galaxy_info:
   author: Jeganathan Swaminathan 
   description: This is simple to check the variable passing from one role to the other 
   company: TekTutor <http://www.tektutor.org> 
+  owner: jegan
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
